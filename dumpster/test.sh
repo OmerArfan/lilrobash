@@ -26,8 +26,8 @@ else
             if [[ $age -le 55 ]]; then
                 echo oh right, my bad. Respect to you then sir!
             else
-                if [[ $age -le 80]]; then
-                    echo if you're still alive, enjoy the rest of your life...
+                if [[ $age -le 80 ]]; then
+                    echo "if you're still alive, enjoy the rest of your life..."
                 else 
                     echo either ur barely alive or capping
                 fi
